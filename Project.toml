@@ -1,5 +1,6 @@
 [deps]
 ArchGDAL = "c9ce4bd3-c3d5-55b8-8973-c0e20141b8c3"
+CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"
 RCall = "6f49c342-dc21-5d91-9882-a32aef131414"
 RasterDataSources = "3cb90ccd-e1b6-4867-9617-4276c8b2ca36"
 Rasters = "a3a2b9e3-a471-40c9-b274-f788e487c689"
